@@ -7,4 +7,6 @@
 .image_holder {
     padding: 0;
     margin: 0;
+    height: 55vh;
+    width: 100%;
 }
