@@ -19,4 +19,7 @@ img {
 
 h1 {
     font-family: 'Noto Sans', sans-serif;
+    color: #FCFAFA;
+    font-size: 7vh;
+    font-weight: 400;
 }
