@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+body {
+    background: transparent linear-gradient(180deg, #00A1C8 0%, #202020 100%) 0% 0% no-repeat padding-box;
+}
+
 img {
     height: auto;
     width: 100%;
