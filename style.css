@@ -9,4 +9,5 @@ img {
     width: 100%;
     border-bottom-left-radius: 200px;
     border-bottom-right-radius: 200px;
+    box-shadow: 20px 20px 99px 0 #00000029;
 }
