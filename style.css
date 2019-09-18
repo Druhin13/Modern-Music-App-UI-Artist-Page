@@ -5,6 +5,7 @@
 }
 
 body {
+    height: 100vh;
     background: transparent linear-gradient(180deg, #00A1C8 0%, #202020 100%) 0% 0% no-repeat padding-box;
 }
 
