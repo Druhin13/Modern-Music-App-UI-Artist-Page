@@ -7,4 +7,6 @@
 img {
     height: auto;
     width: 100%;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
 }
