@@ -9,7 +9,7 @@ body {
     background: transparent linear-gradient(180deg, #00A1C8 0%, #202020 100%) 0% 0% no-repeat padding-box;
 }
 
-img {
+.lauv {
     height: auto;
     width: 100%;
     border-bottom-left-radius: 200px;
@@ -41,4 +41,10 @@ h2 {
     font-weight: lighter;
     letter-spacing: 0.3vw;
     margin-left: 0.5em;
+}
+
+.play {
+    position: absolute;
+    z-index: 2;
+    height: 12vh;
 }
