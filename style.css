@@ -23,6 +23,7 @@ img {
     position: absolute;
     z-index: 2;
     margin-top: 27vh;
+    margin-left: 7%;
 }
 
 h1 {
@@ -36,7 +37,7 @@ h1 {
 h2 {
     font-family: 'Noto Sans', sans-serif;
     color: #FCFAFA;
-    font-size: 1.3vh;
+    font-size: 1.1vh;
     font-weight: lighter;
     letter-spacing: 0.3vw;
     margin-left: 0.5em;
