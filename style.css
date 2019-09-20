@@ -10,11 +10,11 @@ body {
 
 .bg {
     position: absolute;
-    height: 52.5vh;
+    height: 54vh;
     width: 100%;
     background: transparent linear-gradient(180deg, #00A1C8 0%, #202020 100%) 0% 0% no-repeat padding-box;
     z-index: 1;
-    margin-top: 48vh;
+    margin-top: 46vh;
 }
 
 .lauv {
