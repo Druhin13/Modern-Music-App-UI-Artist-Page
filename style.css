@@ -56,17 +56,15 @@ body {
     width: 100%;
     position: absolute;
     text-align: center;
-}
-
-.play_holder img {
-    position: absolute;
-    z-index: 2;
-    height: 14vh;
     margin-top: 49vh;
 }
 
+.play_holder img {
+    z-index: 2;
+    height: 14vh;
+}
+
 .play_holder h1 {
-    text-align: left;
     font-family: 'Noto Sans', sans-serif;
     letter-spacing: 2px;
     color: #FFFFFF;
