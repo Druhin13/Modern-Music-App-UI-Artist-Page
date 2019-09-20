@@ -59,3 +59,12 @@ h2 {
     margin-top: 49vh;
     margin-left: 36%;
 }
+
+h3 {
+    text-align: left;
+    font-family: 'Noto Sans', sans-serif;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
