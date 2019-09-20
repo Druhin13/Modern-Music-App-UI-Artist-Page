@@ -34,7 +34,7 @@ body {
     margin-left: 7%;
 }
 
-h1 {
+.artist h1 {
     font-family: 'Noto Sans', sans-serif;
     color: #FCFAFA;
     font-size: 7vh;
