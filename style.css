@@ -82,3 +82,8 @@ body {
     text-align: center;
     z-index: 3;
 }
+
+.songs img {
+    position: absolute;
+    bottom: 0;
+}
