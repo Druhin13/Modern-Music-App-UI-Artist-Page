@@ -53,6 +53,7 @@ body {
 }
 
 .play_holder {
+    width: 100%;
     position: absolute;
     text-align: center;
 }
@@ -62,7 +63,6 @@ body {
     z-index: 2;
     height: 14vh;
     margin-top: 49vh;
-    margin-left: 36%;
 }
 
 .play_holder h1 {
