@@ -62,9 +62,12 @@ body {
 
 .play_holder img {
     height: 14vh;
+    text-align: center;
 }
 
 .play_holder h1 {
+    margin-top: -2.5vh;
+    text-align: center;
     font-family: 'Noto Sans', sans-serif;
     letter-spacing: 2px;
     color: #FFFFFF;
