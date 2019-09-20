@@ -52,16 +52,16 @@ body {
     line-height: 1.7vh;
 }
 
+.play_holder {
+    position: absolute;
+}
+
 .play_holder img {
     position: absolute;
     z-index: 2;
     height: 14vh;
     margin-top: 49vh;
     margin-left: 36%;
-}
-
-.play_holder {
-    position: absolute;
 }
 
 .play_holder h1 {
