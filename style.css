@@ -78,8 +78,7 @@ body {
 .songs {
     height: 100vh;
     width: 100%;
-    position: absolute;
-    text-align: center;
+    position: relative;
     z-index: 3;
 }
 
