@@ -54,6 +54,7 @@ body {
 
 .play_holder {
     position: absolute;
+    text-align: center;
 }
 
 .play_holder img {
