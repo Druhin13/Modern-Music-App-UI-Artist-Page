@@ -52,7 +52,7 @@ body {
     line-height: 1.7vh;
 }
 
-.play {
+.play_holder img {
     position: absolute;
     z-index: 2;
     height: 14vh;
@@ -70,5 +70,5 @@ body {
     letter-spacing: 2px;
     color: #FFFFFF;
     text-transform: uppercase;
-    z-index: 2;
+    z-index: 3;
 }
