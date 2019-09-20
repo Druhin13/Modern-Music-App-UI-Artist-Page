@@ -61,6 +61,7 @@ body {
 }
 
 .play_holder img {
+    margin-left: 2%;
     height: 14vh;
     text-align: center;
 }
