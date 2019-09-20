@@ -60,7 +60,9 @@ body {
     margin-left: 36%;
 }
 
-h3 {
+
+
+.play_holder h3 {
     position: absolute;
     text-align: left;
     font-family: 'Noto Sans', sans-serif;
