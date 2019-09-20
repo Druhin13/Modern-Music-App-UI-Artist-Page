@@ -57,10 +57,10 @@ body {
     position: absolute;
     text-align: center;
     margin-top: 49vh;
+    z-index: 3;
 }
 
 .play_holder img {
-    z-index: 2;
     height: 14vh;
 }
 
@@ -69,5 +69,4 @@ body {
     letter-spacing: 2px;
     color: #FFFFFF;
     text-transform: uppercase;
-    z-index: 3;
 }
