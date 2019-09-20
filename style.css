@@ -42,7 +42,7 @@ body {
     letter-spacing: -0.5vw;
 }
 
-h2 {
+.artist h2 {
     font-family: 'Noto Sans', sans-serif;
     color: #FCFAFA;
     font-size: 1.1vh;
