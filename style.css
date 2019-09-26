@@ -15,6 +15,7 @@
         height: 100vh;
     }
 
+    /*Setting the properties of the background (div)*/
     .bg {
         position: absolute;
         height: 54vh;
