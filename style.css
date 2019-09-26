@@ -10,6 +10,7 @@
         margin: 0;
     }
 
+    /*Setting the height of the body as 100% of the viewport height*/
     body {
         height: 100vh;
     }
