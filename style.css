@@ -36,6 +36,7 @@
         z-index: 1;
     }
 
+    /*Setting the properties of the lauv (div). Its actually contains the image of the artist - Lauv*/
     .artist {
         position: absolute;
         z-index: 2;
