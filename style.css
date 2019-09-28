@@ -44,6 +44,7 @@
         margin-left: 7%;
     }
 
+    /*Setting the properties of the lauv (div). Its actually contains the image of the artist - Lauv*/
     .artist h1 {
         font-family: 'Noto Sans', sans-serif;
         color: #FCFAFA;
