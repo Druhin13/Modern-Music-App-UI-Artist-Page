@@ -64,6 +64,7 @@
         line-height: 1.7vh;
     }
 
+    /*Setting the properties of the lauv (div). Its actually contains the image of the artist - Lauv*/
     .play_holder {
         width: 100%;
         position: absolute;
