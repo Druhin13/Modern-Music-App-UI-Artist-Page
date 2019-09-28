@@ -53,6 +53,7 @@
         letter-spacing: -0.5vw;
     }
 
+    /*Setting the properties of the lauv (div). Its actually contains the image of the artist - Lauv*/
     .artist h2 {
         font-family: 'Noto Sans', sans-serif;
         color: #FCFAFA;
