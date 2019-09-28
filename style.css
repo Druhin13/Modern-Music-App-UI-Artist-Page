@@ -90,6 +90,7 @@
         text-transform: uppercase;
     }
 
+    /*Setting the properties of the lauv (div). Its actually contains the image of the artist - Lauv*/
     .songs {
         height: 100vh;
         width: 100%vw;
