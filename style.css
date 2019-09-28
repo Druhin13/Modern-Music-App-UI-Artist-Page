@@ -98,6 +98,7 @@
         z-index: 3;
     }
 
+    /*Setting the properties of the lauv (div). Its actually contains the image of the artist - Lauv*/
     .songs img {
         width: 80%;
         position: absolute;
