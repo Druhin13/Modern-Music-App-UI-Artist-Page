@@ -73,6 +73,7 @@
         z-index: 3;
     }
 
+    /*Setting the properties of the lauv (div). Its actually contains the image of the artist - Lauv*/
     .play_holder img {
         margin-left: 1.7%;
         height: 14vh;
